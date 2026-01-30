@@ -1,1 +1,5 @@
 Printf("Hello welcome to GIT HUB");
+
+Printf("Git is used for the version control and used to modify code from anywhere at same time");
+
+printf("Git hub is the web based or cloud baased repository platform");
